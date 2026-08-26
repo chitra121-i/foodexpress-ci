@@ -5,3 +5,4 @@ Python, and Pytest.
 trying to test automatic build.
 git and github practice
 git branching practice
+Pull Request practice
